@@ -1,10 +1,10 @@
-# Gemini Live API - Hebrew STS Doll Prototype
+# Gemini Live API - Hebrew Doll Prototype
 
-A real-time speech-to-speech conversational AI prototype in Hebrew using Google's Gemini Live API. Perfect for creating interactive smart dolls, educational toys, or voice assistants.
+A real-time speech-to-text-to-speech conversational AI prototype in Hebrew using Google's Gemini Live API. Perfect for creating interactive smart dolls, educational toys, or voice assistants.
 
 ## Features
 
-- ✅ **Real-time speech-to-speech** - No intermediate text processing
+- ✅ **Real-time speech-to-text-to-speech**
 - ✅ **Hebrew language support** - Native Hebrew conversation
 - ✅ **Low latency** - Fast response times
 - ✅ **Customizable personality** - Easy to modify AI behavior
